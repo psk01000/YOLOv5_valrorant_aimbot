@@ -25,6 +25,6 @@ A) 파이썬에서 마우스 제어를 하려고 시도하였으나 게임에서
 2. 다른게임에도 적용이 가능한가요?
 A) 원하는 게임을 학습시켜서 best.pt만 교체해준다면 가능 할 것 같습니다. 그러나 게임마다 캐릭터의 크기가 다르기 때문에 좌표수정이 필요할 것으로 보입니다.
 
-![봇인식](https://user-images.githubusercontent.com/62214011/212616515-c437e784-d289-487d-a526-8be8bf524c2e.gif)
+![봇인식](https://user-images.githubusercontent.com/62214011/212617776-92759dc0-f086-46f5-8c5a-ba174292a2cc.gif)
 
 ![결과물](https://user-images.githubusercontent.com/62214011/212617258-9a14d090-6225-4999-ae74-d3d1c6f3527f.gif)
